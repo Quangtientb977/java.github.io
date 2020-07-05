@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "gradle-wrapper": "streaming\gradle\wrapper"
+    "StreamingApplication": "streaming\src\main\java\com\esbt\streaming"
   }
 }
