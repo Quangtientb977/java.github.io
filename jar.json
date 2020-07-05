@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "StreamingApplication": "streaming\src\main\java\com\esbt\streaming"
+    "StreamingApplication.java": "streaming\src\main\java\com\esbt\streaming"
   }
 }
