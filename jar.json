@@ -1,0 +1,5 @@
+{
+  "deploy": {
+    "jarName": "streaming\gradle\wrapper\gradle-wrapper.jar"
+  }
+}
