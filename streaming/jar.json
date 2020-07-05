@@ -1,5 +1,0 @@
-{
-  "deploy": {
-    "StreamingApplication.java": "src\main\java\com\esbt\streaming"
-  }
-}
